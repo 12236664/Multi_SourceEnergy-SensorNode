@@ -1,0 +1,1 @@
+python laptop_logger.py --port COM23 --baud 9600
